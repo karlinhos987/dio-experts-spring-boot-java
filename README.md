@@ -1,5 +1,5 @@
 
-#  Curso Abstraindo a Complexidade de Configuração com Spring Boot 
+#  Curso Abstraindo a Complexidade de Configuração com Spring Boot
 
 O curso foi consolidado junto a [Digital Innovation One](https://digitalinnovation.one/) para disponobilidade dentro de sua plataforma online, podendo ser conteúdo para futuros bootcamps.
 
@@ -12,12 +12,12 @@ Funcionamento da DI e IoC do Spring, como geramos um projeto utilizando o Spring
 
 ## Pré-requistos
  ✅ Java JDK 11+
- 
+
  ✅  Conhecer a sintaxe Java
- 
+
  ✅  Disposição para estudar
 
-## 📌 Tópicos do curso 
+## 📌 Tópicos do curso
 
 **1. Introdução e Apresentação do Curso**
 
@@ -26,22 +26,22 @@ Funcionamento da DI e IoC do Spring, como geramos um projeto utilizando o Spring
   - Beans
   - Inversão de Controle (IoC)
   - Injeção de Dependências (DI)
-  
+
 **3. Spring Boot**
   - O que é o Spring Boot?
   - Motivação do Spring Boot
   - Spring Initializr
   - Auto-configuration
-  
+
 **4. Principais Dependências e Bibliotecas**
   - Swagger
   - Feign
-  
+
 **5. Spring Boot Test**
   - Visão Geral
   - Testes Unitários
   - Explorando o @SpringBootTest
-  
+
 **6. Conclusão**
 
 ## 📚 Exercícios práticos
@@ -62,6 +62,4 @@ Funcionamento da DI e IoC do Spring, como geramos um projeto utilizando o Spring
 
 <hr/>
 
-**by** [Renan Marques 🖖](https://www.linkedin.com/in/karlinhos987/)
-
-  
+**by** [🖖](https://www.linkedin.com/in/karlinhos987/)
